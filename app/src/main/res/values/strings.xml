@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Util Saver</string>
+    <string name="back">Back</string>
+    <string name="last_month_electricity_count">Last Month Electricity Count:</string>
+    <string name="last_month_gas_count">Last Month Gas Count:</string>
+    <string name="last_month_water_count">Last Month Water Count:</string>
+    <string name="last_month_pay_count">To be paid:</string>
+    <string name="register">Register</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="make_monthly_analytics">Make monthly analytics</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="register_new_account">Register new account</string>
+    <string name="get_averages">Get Averages</string>
+    <string name="set_your_limit">Set your limit</string>
+    <string name="enter_your_limit_here">Enter your limit here</string>
+</resources>

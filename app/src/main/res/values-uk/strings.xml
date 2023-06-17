@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Util Saver</string>
+    <string name="back">Назад</string>
+    <string name="last_month_electricity_count">Лічильник електроенергії минулого місяця:</string>
+    <string name="last_month_gas_count">Лічильник газу минулого місяця:</string>
+    <string name="last_month_water_count">Лічильник води минулого місяця:</string>
+    <string name="last_month_pay_count">Сума до сплати:</string>
+    <string name="register">Реєстрація</string>
+    <string name="last_name">Прізвище</string>
+    <string name="first_name">Ім\'я</string>
+    <string name="email">Електронна пошта</string>
+    <string name="back_to_login">Повернутися до входу</string>
+    <string name="make_monthly_analytics">Зробити щомісячну аналітику</string>
+    <string name="login">Логін</string>
+    <string name="password">Пароль</string>
+    <string name="log_in">Увійти</string>
+    <string name="register_new_account">Зареєструвати новий обліковий запис</string>
+    <string name="get_averages">Отримати середні значення</string>
+    <string name="set_your_limit">Встановити ваш ліміт</string>
+    <string name="enter_your_limit_here">Введіть ваш ліміт тут</string>
+</resources>
